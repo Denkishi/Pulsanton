@@ -13,20 +13,20 @@
 .u-section-1 .u-image-5 {width: 43px; height: 46px; margin-top: -96px; margin-right: 262px} }
 
 @media (max-width: 991px){ .u-section-1 .u-image-2 {margin-top: 366px; margin-right: 102px}
-.u-section-1 .u-image-3 {margin-top: 22px; margin-right: auto; margin-left: 216px}
-.u-section-1 .u-image-4 {margin-top: -113px; margin-right: 92px}
+.u-section-1 .u-image-3 {margin-top: 29px; margin-right: auto}
+.u-section-1 .u-image-4 {margin-top: -119px; margin-right: 92px}
 .u-section-1 .u-image-5 {margin-right: 190px} }
 
 @media (max-width: 767px){ .u-section-1 .u-image-1 {min-height: 994px; width: auto; margin-right: initial; margin-left: initial}
 .u-section-1 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
 .u-section-1 .u-image-2 {margin-top: 423px; margin-right: 50px}
-.u-section-1 .u-image-3 {margin-top: 38px; margin-left: auto}
+.u-section-1 .u-image-3 {margin-top: 38px}
 .u-section-1 .u-image-4 {margin-top: -127px; margin-right: 39px}
 .u-section-1 .u-image-5 {margin-right: 138px} }
 
 @media (max-width: 575px){ .u-section-1 {min-height: 994px}
 .u-section-1 .u-image-1 {width: 535px; margin-right: auto; margin-left: calc(((100% - 340px) / 2) + -145px)}
 .u-section-1 .u-image-2 {margin-top: 506px; margin-right: 32px}
-.u-section-1 .u-image-3 {margin-top: -32px}
+.u-section-1 .u-image-3 {margin-top: auto}
 .u-section-1 .u-image-4 {width: 100px; height: 137px; margin-top: -56px; margin-right: 42px}
 .u-section-1 .u-image-5 {width: 30px; height: 32px; margin-top: -67px; margin-right: 111px} }
