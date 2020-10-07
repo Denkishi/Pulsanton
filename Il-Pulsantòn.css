@@ -1,0 +1,25 @@
+.u-section-1 {min-height: 874px}
+.u-section-1 .u-image-1 {width: 1412px; min-height: 874px; height: auto; background-image: url("images/pulsanton-01.jpg"); margin: 0 auto 0 calc(((100% - 1140px) / 2) + -152px)}
+.u-section-1 .u-container-layout-1 {padding: 30px}
+.u-section-1 .u-image-2 {width: 120px; height: 60px; margin: 369px 388px 0 auto}
+.u-section-1 .u-image-3 {width: 107px; height: 110px; margin: 20px auto 0}
+.u-section-1 .u-image-4 {width: 112px; height: 154px; margin: -118px 392px 0 auto}
+.u-section-1 .u-image-5 {width: 35px; height: 38px; margin: -73px 469px 0 auto} 
+
+@media (max-width: 1199px){ .u-section-1 .u-image-1 {margin-right: initial; margin-left: initial; width: auto}
+.u-section-1 .u-image-4 {width: 570px; height: 783px; margin-top: -521px; margin-right: 120px}
+.u-section-1 .u-image-5 {width: 399px; height: 429px; margin-top: -368px; margin-right: 354px} }
+
+@media (max-width: 991px){ .u-section-1 .u-image-4 {margin-right: 90px}
+.u-section-1 .u-image-5 {margin-right: 261px} }
+
+@media (max-width: 767px){ .u-section-1 .u-image-1 {min-height: 994px; width: auto; margin-right: initial; margin-left: initial}
+.u-section-1 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-section-1 .u-image-2 {margin-top: 447px}
+.u-section-1 .u-image-4 {width: 520px; height: 714px; margin-right: 0}
+.u-section-1 .u-image-5 {margin-right: 121px} }
+
+@media (max-width: 575px){ .u-section-1 {min-height: 994px}
+.u-section-1 .u-image-2 {margin-right: 200px}
+.u-section-1 .u-image-4 {width: 320px; height: 439px}
+.u-section-1 .u-image-5 {width: 320px; height: 344px; margin-right: 0} }
